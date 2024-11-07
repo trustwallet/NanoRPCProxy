@@ -32,7 +32,7 @@
     "nanocurrency": "^2.5.0",
     "nanocurrency-web": "^1.4.3",
     "node-cache": "^5.1.2",
-    "node-fetch": "^2.6.7",
+    "node-fetch": "^3.3.2",
     "node-schedule": "^2.1.1",
     "prom-client": "^14.2.0",
     "rate-limiter-flexible": "^2.2.1",
